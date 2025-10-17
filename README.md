@@ -1,6 +1,6 @@
 # Native Language Identification through Agentic Decomposition
 
-This repository contains the code and instructions to replicate the experiments from the paper "[Robust Native Language Identification through Agentic Decomposition]".
+This repository contains the code and instructions to replicate the experiments from the paper Robust Native Language Identification through Agentic Decomposition at EMLNP 2025.
 
 ## Datasets
 
