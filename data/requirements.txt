@@ -1,0 +1,7 @@
+numpy
+openai
+scikit-learn
+tqdm
+matplotlib
+seaborn
+spacy
